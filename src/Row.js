@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-import Row from "./Row";
 import axios from "./axios";
 
 export default function Row({ title }) {
